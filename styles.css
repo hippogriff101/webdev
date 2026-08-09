@@ -78,8 +78,9 @@ a:hover {
 }
 
 .brand-banner {
+  display: block;
   width: fit-content;
-  margin-left: 1rem;
+  margin: 0 0 0 1rem;
   z-index: 30;
 }
 
